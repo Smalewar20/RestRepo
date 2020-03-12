@@ -2,20 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2805" started-at="2020-03-12T10:39:56 IST" finished-at="2020-03-12T10:39:58 IST">
+  <suite name="Default suite" duration-ms="33" started-at="2020-03-12T13:01:34 IST" finished-at="2020-03-12T13:01:34 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2805" started-at="2020-03-12T10:39:56 IST" finished-at="2020-03-12T10:39:58 IST">
-      <class name="apiTest.GetAPI">
-        <test-method status="PASS" signature="baseTest()[pri:0, instance:apiTest.GetAPI@6acdbdf5]" name="baseTest" is-config="true" duration-ms="309" started-at="2020-03-12T10:39:56 IST" finished-at="2020-03-12T10:39:56 IST">
+    <test name="Default test" duration-ms="33" started-at="2020-03-12T13:01:34 IST" finished-at="2020-03-12T13:01:34 IST">
+      <class name="RestTest.rest">
+        <test-method status="PASS" signature="swipeTest()[pri:0, instance:RestTest.rest@4e7dc304]" name="swipeTest" duration-ms="6" started-at="2020-03-12T13:01:34 IST" finished-at="2020-03-12T13:01:34 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- baseTest -->
-        <test-method status="PASS" signature="getAPI()[pri:0, instance:apiTest.GetAPI@6acdbdf5]" name="getAPI" duration-ms="2472" started-at="2020-03-12T10:39:56 IST" finished-at="2020-03-12T10:39:58 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getAPI -->
-      </class> <!-- apiTest.GetAPI -->
+        </test-method> <!-- swipeTest -->
+      </class> <!-- RestTest.rest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
